@@ -185,7 +185,6 @@ color: black;
 ![image](https://github.com/Manoj0079940/Figma/assets/149366208/3727df25-0df4-48ca-98ca-7d9c34b36738)
 ![image](https://github.com/Manoj0079940/Figma/assets/149366208/d628256c-9f7d-42f4-8c9f-87f9207ae177)
 ![image](https://github.com/Manoj0079940/Figma/assets/149366208/ce64096a-7699-4f45-ae94-649186f310bf)
-![image](https://github.com/Manoj0079940/Figma/assets/149366208/c3936656-6dda-4a1a-bcd7-7c5e03fc7524)
 
 
 
